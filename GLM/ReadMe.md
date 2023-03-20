@@ -56,3 +56,7 @@ https://github.com/lich99/ChatGLM-finetune-LoRA
     ]
 }
 ```
+
+- 使用peft时，无法使用多卡，需要学习一下。
+- fine-tune的保存模型后，无法加载模型。
+- 量化后的int-4模型，无法loss.backward()。
