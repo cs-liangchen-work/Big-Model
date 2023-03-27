@@ -1,6 +1,7 @@
 LLaMA: https://github.com/facebookresearch/llama
 
 Huggingface版的权重：https://huggingface.co/decapoda-research/llama-7b-hf
+huggingface版的介绍：https://moon-ci-docs.huggingface.co/docs/transformers/pr_22236/en/model_doc/llama#transformers.LlamaForCausalLM
 
 根据官网的修改transformers
 transformers的初始化函数：
